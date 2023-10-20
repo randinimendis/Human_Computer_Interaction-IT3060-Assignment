@@ -2,7 +2,6 @@
 # Project Name - Riyasewana
 # Batch - Group number_2023-WE-S2-52
 # Figma –  High Fidelity Prototype Link- https://www.figma.com/file/knpQXQmu6K0KaZa5EJZh0D/Untitled?type=design&nodeid=10%3A34&mode=design&t=W5hNOjn6M9cDEB8w-1
-
 ### Group Leader - IT21228094 MENDIS A.R.P.(randinimendis)
  Search Wanted Page ,
  My Account Page,
