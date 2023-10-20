@@ -2,7 +2,7 @@
 # Project Name - Riyasewana
 # Batch - Group number_2023-WE-S2-52
 ### Group Leader - IT21228094 MENDIS A.R.P.(randinimendis)
-#Search Wanted Page 
+# Search Wanted Page 
 My Account Page
 Edit Profile Page
 Change Password Page
