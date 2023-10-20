@@ -1,4 +1,4 @@
-# Human_Computer_Interaction-IT3060-Assignment
+# Human_Computer_Interaction-IT3060-Assignment 3YEAR 1SEM PROJECT
 # Project Name - Riyasewana
 # Batch - Group number_2023-WE-S2-52
  Figma –  High Fidelity Prototype Link- https://www.figma.com/file/knpQXQmu6K0KaZa5EJZh0D/Untitled?type=design&nodeid=10%3A34&mode=design&t=W5hNOjn6M9cDEB8w-1
@@ -31,11 +31,6 @@
 ![image](https://github.com/randinimendis/Human_Computer_Interaction-IT3060-Assignment/assets/99355199/b9202e14-8ab6-4607-b9fe-762feab7f4e0)
 ![image](https://github.com/randinimendis/Human_Computer_Interaction-IT3060-Assignment/assets/99355199/fa2b8d76-90af-4633-b68d-fc205a928837)
 ![image](https://github.com/randinimendis/Human_Computer_Interaction-IT3060-Assignment/assets/99355199/c89de5c7-4011-4c18-b101-9cadfa01089b)
-
-
-
-
-
 Our team chose the software Riyasewana website to rebuild. This website allows you 
 to sell and buy vehicles and car spare components.One of the most significant 
 characteristics of a website is its usability. Our group consists of Working to improve 
