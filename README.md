@@ -25,7 +25,7 @@
  Contribute Page, 
  Contact Us Page,
  Buy Vehicles Page,
-
+# Figma UI EX:-
 ![image](https://github.com/randinimendis/Human_Computer_Interaction-IT3060-Assignment/assets/99355199/101fce11-ed4d-43be-a3a9-b748cd839e5e)
 
 Our team chose the software Riyasewana website to rebuild. This website allows you 
