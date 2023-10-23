@@ -3,25 +3,30 @@
 # Batch - Group number_2023-WE-S2-52
  Figma –  High Fidelity Prototype Link- https://www.figma.com/file/knpQXQmu6K0KaZa5EJZh0D/Untitled?type=design&nodeid=10%3A34&mode=design&t=W5hNOjn6M9cDEB8w-1
 ### Group Leader - IT21228094 MENDIS A.R.P.(randinimendis)
+Contribute:-
  Search Wanted Page ,
  My Account Page,
  Edit Profile Page,
  Change Password Page
 ### Member 2 - IT21225574 Jayasinghe J.A.J.M.(Jayyy00)
+Contribute:-
  Home Page, 
  Sell Vehicles Page,
  My Favorite Pag
 ### Member 3 - IT21231100 Sandaruwan W.M.I.M. (ImalMS)
+Contribute:- 
  Buy Spare Parts Page,
  Registration Page,
  Login Page
 ### Member 4 - IT21215292  Madhusanka J.A.A.
+Contribute:-
  Edit Ad Wanted Page,
  Delete Ad Wanted Page,
  Add Ad Wanted Page,
  Ads View Page,
  Vehicle Leasing Page
 ### Member 5 - IT21225024  Bhagya P.S
+Contribute:-
  Contribute Page, 
  Contact Us Page,
  Buy Vehicles Page,
